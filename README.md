@@ -1,5 +1,14 @@
 # Spring Rest Web Service
 
+### Description
+
+This project is a Java Spring Restful Web Service hosted on AWS using Elastic Beanstalk and is connected to an AWS RDS in my VPC.
+As an individual that thrives off of organization, personal planners and todo lists have always been something I am glued to. Half of the items in my programming section of my todo list
+involve working with different elements of AWS, so I figured why not gain experience with AWS while hosting my Todo list as a service
+so that it can be easily integrated into any future projects (Such as an Android app or Chrome extension). This project also allows me to 
+work with new tools such as Java Spring, and practice important skills that will be needed on the job such as creating and maintaining APIs, 
+and more exposure to the full development process.
+
 #### Setup
 * _Clone down respoitory_
 * _Run Gradle build_
